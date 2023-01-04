@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.backround{
+    background-color: darkgoldenrod;
+    padding: 0 25px;
+    color: aliceblue;
+}
+.mt{
+    margin-top: 30px;
+}
+.logo{
+    border-radius: 50%;
+}
+.crd{
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+.cd{
+    width: auto;
+    height: 220px;
+}.
